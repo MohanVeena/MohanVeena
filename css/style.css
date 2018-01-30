@@ -332,8 +332,9 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 1;
   background: rgba(0, 0, 0, 0.4);
 }
-/*
+
 .qbootstrap-cover, .text-center{
+ background-image: url(../images/cover_bg_3.jpg);
   background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -344,7 +345,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     color: white;
 }
-*/
+
 .qbootstrap-cover,
 .video-hero {
   background-size: cover;
