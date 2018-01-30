@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -333,6 +333,18 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(0, 0, 0, 0.4);
 }
 
+.qbootstrap-cover, .text-center{
+  background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: white;
+
+}
 .qbootstrap-cover,
 .video-hero {
   background-size: cover;
